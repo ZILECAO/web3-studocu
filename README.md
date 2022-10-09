@@ -9,6 +9,8 @@ https://w3b-hackathon.vercel.app/
 
 https://donofinal.zilecao.repl.co/
 
+Etherscan: https://goerli.etherscan.io/address/0xc8f599d7f0C00Bd5e1BF3896DD50d31c64663933
+
 
 -- note this replit may sleep sometimes so just contact me and I will relaunch it
 
