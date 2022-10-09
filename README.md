@@ -7,7 +7,7 @@ https://w3b-hackathon.vercel.app/
 ---
 ## Interact with the smart contract here
 
-https://donofinal.zilecao.repl.co/
+Smart Contract UI via Replit: https://donofinal.zilecao.repl.co/
 
 Etherscan: https://goerli.etherscan.io/address/0xc8f599d7f0C00Bd5e1BF3896DD50d31c64663933
 
