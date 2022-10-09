@@ -17,7 +17,7 @@ Etherscan: https://goerli.etherscan.io/address/0xc8f599d7f0C00Bd5e1BF3896DD50d31
 ---
 ## Video demo
 
-on the way
+Youtube: https://youtu.be/qpnThqLB7Gk
 
 
 ---
