@@ -178,6 +178,10 @@ export default function Home() {
                     <p class="mt-6 text-2xl text-white font-bold">
                         Available Notes
                     </p>
+
+                    <p class="mt-6 text-m text-white font-bold">
+                        Make sure you are connected to the Goerli Ethereum Testnet!
+                    </p>
                 </div>
 
 
