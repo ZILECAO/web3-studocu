@@ -1,3 +1,10 @@
+## Video demo
+
+Youtube: https://youtu.be/qpnThqLB7Gk
+
+---
+
+
 ## View the live webpage 
 
 https://w3b-hackathon.vercel.app/
@@ -13,11 +20,6 @@ Etherscan: https://goerli.etherscan.io/address/0xc8f599d7f0C00Bd5e1BF3896DD50d31
 
 
 -- note this replit may sleep sometimes so just contact me and I will relaunch it
-
----
-## Video demo
-
-Youtube: https://youtu.be/qpnThqLB7Gk
 
 
 ---
